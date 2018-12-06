@@ -1,0 +1,16 @@
+<collection-config>
+    <organisation>Commonwealth of Australia (Geoscience Australia)</organisation>
+    <parameter>
+        <uri>http://vocab.aodn.org.au/def/discovery_parameter/entity/38</uri>
+        <label>Variance spectral density of waves on the water body</label>
+    </parameter>
+    <platform>
+        <uri>http://vocab.aodn.org.au/def/platform/entity/163</uri>
+        <label>Deep-Slope Mooring (M7)</label>
+    </platform>
+    <service>
+        <url>http://pid.geoscience.gov.au/dataset/ga/122355</url>
+        <protocol>WWW:LINK-1.0-http--metadata-URL</protocol>
+        <description>Point of truth URL of this metadata record</description>
+    </service>
+</collection-config>
