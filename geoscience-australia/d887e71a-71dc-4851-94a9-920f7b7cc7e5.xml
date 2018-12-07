@@ -12,7 +12,7 @@
         <description>WMS Layer</description>
     </service>
     <service>
-        <url>http://marine.ga.gov.au/geoserver/wcs</url>
+        <url>marine.ga.gov.au/api</url>
         <name>marine:bathymetry_150m_all_3857</name>
         <protocol>GA:Download</protocol>
         <description>Data available via wcs </description>
