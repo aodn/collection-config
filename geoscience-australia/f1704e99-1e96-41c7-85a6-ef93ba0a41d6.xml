@@ -6,13 +6,13 @@
         <description>Point of truth URL of this metadata record</description>
     </service>
     <service>
-        <url>http://nonprod-marine.ga.gov.au/geoserver/wms</url>
+        <url>http://nonprod.marine.ga.gov.au/geoserver/wms</url>
         <name>marine:seabed_sediments_collection</name>
         <protocol>OGC:WMS-1.1.1-http-get-map</protocol>
         <description>Seabed Sediments Collection</description>
     </service>
     <service>
-        <url>http://nonprod-marine.ga.gov.au/geoserver/wfs</url>
+        <url>http://nonprod.marine.ga.gov.au/geoserver/wfs</url>
         <name>marine:seabed_sediments_collection</name>
         <protocol>OGC:WFS-1.0.0-http-get-capabilities</protocol>
         <description>Seabed Sediments Collection</description>
