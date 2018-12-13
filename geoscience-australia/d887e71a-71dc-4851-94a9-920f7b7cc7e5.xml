@@ -20,7 +20,7 @@
         <description>WMS Layer</description>
     </service>
     <service>
-        <url>https://nonprod.marine.ga.gov.au/api/products/get-coverage</url>
+        <url>http://nonprod.marine.ga.gov.au/api/products/get-coverage</url>
         <name>marine:bathymetry_150m_all_3857</name>
         <protocol>GA:Download</protocol>
         <description>Data available via wcs</description>
