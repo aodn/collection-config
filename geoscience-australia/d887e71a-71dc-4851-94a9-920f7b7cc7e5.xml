@@ -14,7 +14,7 @@
         <description>Point of truth URL of this metadata record</description>
     </service>
     <service>
-        <url>http://marine.ga.gov.au/geoserver/wms</url>
+        <url>http://nonprod.marine.ga.gov.au/geoserver/wms</url>
         <name>marine:bathymetry_150m_all_3857</name>
         <protocol>OGC:WMS-1.1.1-http-get-map</protocol>
         <description>WMS Layer</description>
