@@ -1,0 +1,28 @@
+<collection-config>
+    <organisation>Commonwealth of Australia (Geoscience Australia)</organisation>
+    <parameter>
+        <uri>http://vocab.aodn.org.au/def/discovery_parameter/entity/44</uri>
+        <label>Height above surface of the water body</label>
+    </parameter>
+    <platform>
+        <uri>http://vocab.nerc.ac.uk/collection/L06/current/32</uri>
+        <label>vessel of opportunity</label>
+    </platform>
+    <service>
+        <url>http://pid.geoscience.gov.au/dataset/115066</url>
+        <protocol>WWW:LINK-1.0-http--metadata-URL</protocol>
+        <description>Point of truth URL of this metadata record</description>
+    </service>
+    <service>
+        <url>https://warehouse.ausseabed.gov.au/geoserver/ows</url>
+        <name>ausseabed:Great_Barrier_Reef_Bathymetry_2017_30m</name>
+        <protocol>OGC:WMS-1.1.1-http-get-map</protocol>
+        <description>WMS Layer</description>
+    </service>
+    <service>
+        <url> https://warehouse.ausseabed.gov.au/geoserver/wcs</url>
+        <name>ausseabed:Great_Barrier_Reef_Bathymetry_2017_30m_OV</name>
+        <protocol>GA:Download</protocol>
+        <description>Data available via wcs</description>
+    </service>
+</collection-config>
