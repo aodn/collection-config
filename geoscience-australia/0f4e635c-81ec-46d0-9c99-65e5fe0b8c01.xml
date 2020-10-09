@@ -20,7 +20,7 @@
         <description>WMS Layer</description>
     </service>
     <service>
-        <url> https://warehouse.ausseabed.gov.au/geoserver/wcs</url>
+        <url>https://warehouse.ausseabed.gov.au/geoserver/wcs</url>
         <name>ausseabed:Great_Barrier_Reef_Bathymetry_2017_30m_OV</name>
         <protocol>GA:Download</protocol>
         <description>Data available via wcs</description>
