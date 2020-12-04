@@ -15,7 +15,7 @@
     </service>
     <service>
         <url>https://warehouse.ausseabed.gov.au/geoserver/ows</url>
-        <name>ausseabed:Bynoe_Harbour_Bathymetry_2016_1m</name>
+        <name>ausseabed:Bynoe_Harbour_Bathymetry_2016_1m_L0_Coverage</name>
         <protocol>OGC:WMS-1.1.1-http-get-map</protocol>
         <description>WMS Layer</description>
     </service>
