@@ -1,0 +1,11 @@
+<collection-config>
+    <organisation>School of Life and Environmental Sciences (LES), Deakin University</organisation>
+    <parameter>
+        <uri>http://vocab.aodn.org.au/def/discovery_parameter/entity/44</uri>
+        <label>Height above surface of the water body</label>
+    </parameter>
+    <platform>
+        <uri>http://vocab.nerc.ac.uk/collection/L06/current/31</uri>
+        <label>research vessel</label>
+    </platform>
+</collection-config>
