@@ -1,0 +1,7 @@
+<collection-config>
+    <organisation>Tasmanian Partnership for Advanced Computing (TPAC)</organisation>
+    <parameter>
+        <uri>http://vocab.nerc.ac.uk/collection/P01/current/CTMPZZ01</uri>
+        <label>Temperature of the atmosphere</label>
+    </parameter>
+</collection-config>
