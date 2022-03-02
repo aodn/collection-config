@@ -7,13 +7,13 @@
     </service>
     <service>
         <url>http://warehouse.ausseabed.gov.au/geoserver/wms</url>
-        <name>marine:seabed_sediments_collection</name>
+        <name>ausseabed:Seabed_Sediments_Collection</name>
         <protocol>OGC:WMS-1.1.1-http-get-map</protocol>
         <description>Seabed Sediments Collection</description>
     </service>
     <service>
         <url>http://warehouse.ausseabed.gov.au/geoserver/wfs</url>
-        <name>marine:seabed_sediments_collection</name>
+        <name>ausseabed:Seabed_Sediments_Collection</name>
         <protocol>OGC:WFS-1.0.0-http-get-capabilities</protocol>
         <description>Seabed Sediments Collection</description>
     </service>
