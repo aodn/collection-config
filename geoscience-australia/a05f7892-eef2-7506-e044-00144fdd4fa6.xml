@@ -1,0 +1,20 @@
+<collection-config>
+    <organisation>Commonwealth of Australia (Geoscience Australia)</organisation>
+    <service>
+        <url>http://pid.geoscience.gov.au/dataset/ga/69869</url>
+        <protocol>WWW:LINK-1.0-http--metadata-URL</protocol>
+        <description>Point of truth URL of this metadata record</description>
+    </service>
+    <service>
+        <url>http://warehouse.ausseabed.gov.au/geoserver/wms</url>
+        <name>ausseabed:Seabed_Sediments_Collection</name>
+        <protocol>OGC:WMS-1.1.1-http-get-map</protocol>
+        <description>Seabed Sediments Collection</description>
+    </service>
+    <service>
+        <url>http://warehouse.ausseabed.gov.au/geoserver/wfs</url>
+        <name>ausseabed:Seabed_Sediments_Collection</name>
+        <protocol>OGC:WFS-1.0.0-http-get-capabilities</protocol>
+        <description>Seabed Sediments Collection</description>
+    </service>
+</collection-config>
