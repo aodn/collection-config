@@ -1,0 +1,14 @@
+<collection-config>
+    <service>
+        <url>http://geoserver-123.aodn.org.au/geoserver/wms</url>
+        <name>aodn:aims_mmp_ctd_profiles_map</name>
+        <protocol>OGC:WMS-1.1.1-http-get-map</protocol>
+        <description>AIMS MMP CTD Collection</description>
+    </service>
+    <service>
+        <url>http://geoserver-123.aodn.org.au/geoserver/wfs</url>
+        <name>aodn:aims_mmp_ctd_profiles_data</name>
+        <protocol>OGC:WFS-1.0.0-http-get-capabilities</protocol>
+        <description>AIMS MMP CTD Collection</description>
+    </service>
+</collection-config>
