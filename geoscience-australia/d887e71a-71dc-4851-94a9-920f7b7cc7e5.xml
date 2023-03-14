@@ -14,14 +14,14 @@
         <description>Point of truth URL of this metadata record</description>
     </service>
     <service>
-        <url>http://marine.ga.gov.au/geoserver/wms</url>
-        <name>marine:bathymetry_150m_all_3857</name>
+        <url>https://warehouse.ausseabed.gov.au/geoserver/wms</url>
+        <name>ausseabed:Southern_Indian_Ocean__MH370__Bathymetry_2017_150m</name>
         <protocol>OGC:WMS-1.1.1-http-get-map</protocol>
         <description>WMS Layer</description>
     </service>
     <service>
-        <url>http://marine.ga.gov.au/api/products/get-coverage</url>
-        <name>marine:bathymetry_150m_all_3857</name>
+        <url>https://warehouse.ausseabed.gov.au/geoserver/wcs</url>
+        <name>ausseabed:Southern_Indian_Ocean__MH370__Bathymetry_2017_150m_OV</name>
         <protocol>GA:Download</protocol>
         <description>Data available via wcs</description>
     </service>
