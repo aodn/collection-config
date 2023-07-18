@@ -15,7 +15,7 @@
     </service>
     <service>
         <url>https://warehouse.ausseabed.gov.au/geoserver/wms</url>
-        <name>ausseabed:Southern_Indian_Ocean__MH370__Bathymetry_2017_150m</name>
+        <name>ausseabed:Southern_Indian_Ocean__MH370__Bathymetry_2017_150m_OV</name>
         <protocol>OGC:WMS-1.1.1-http-get-map</protocol>
         <description>WMS Layer</description>
     </service>
